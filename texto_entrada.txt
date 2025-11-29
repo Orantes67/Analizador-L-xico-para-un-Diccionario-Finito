@@ -1,0 +1,4 @@
+si contador es_mayor Que diez inicio mientras repite imprimir saludo hasta contador fin
+sino x1 y2z inicio
+mientras loop3 123invalido Variable fin
+repite test99 hasta numero imprimir
